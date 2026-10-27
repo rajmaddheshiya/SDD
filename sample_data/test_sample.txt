@@ -1,0 +1,19 @@
+SDD SAMPLE FILE - all values below are FAKE test data
+Name: Test User
+Email: rahul.sharma@example.com
+Phone: 9876543210
+Alt phone: +91 98765 43211
+Aadhaar: 2345 6789 0124
+PAN: ABCDE1234F
+Credit card: 4111 1111 1111 1111
+CVV: 123
+SSN: 123-45-6789
+IBAN: GB82 WEST 1234 5698 7654 32
+Bank account number: 123456789012
+DOB: 14/03/1992
+Server IP: 192.168.10.25
+password = MyS3cretPass!
+api_key: "sk_live_4eC39HqLyjWDarjtT1zdp7dc"
+aws_access_key_id = AKIAIOSFODNN7EXAMPLE
+Not sensitive: order 2024-12-01 total 4500 rupees, invoice 1234567
+-----BEGIN RSA PRIVATE KEY-----
